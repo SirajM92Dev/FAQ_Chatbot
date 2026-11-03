@@ -1,0 +1,55 @@
+query,true_id,type
+How do I file an FIR?,1,exact
+What is bail?,2,exact
+What is a writ petition?,7,exact
+What is khula?,18,exact
+What is perjury?,23,exact
+what is a summons?,24,exact
+how to register a police complaint about a crime,1,paraphrase
+can an accused person be released before the trial ends,2,paraphrase
+difference between suing someone and a crime case,3,paraphrase
+where do I obtain the written decision of a court,4,paraphrase
+formal letter demanding action before going to court,5,paraphrase
+do I need a lawyer or can I go to court alone,6,paraphrase
+challenge a government department's illegal action in High Court,7,paraphrase
+can citizens request government records,8,paraphrase
+authorize my brother to sell my house for me,9,paraphrase
+sworn written statement before a notary,10,paraphrase
+protect my brand name and logo legally,11,paraphrase
+deadline to file a lawsuit,12,paraphrase
+court order pausing an eviction,13,paraphrase
+what to write in a rent contract,14,paraphrase
+seller sold me a defective product what can I do,15,paraphrase
+which court hears a challenge to a lower court's decision,16,paraphrase
+how do I prove I am legally married,17,paraphrase
+wife wants to end her marriage without husband's consent,18,paraphrase
+court order forbidding someone from doing something,19,paraphrase
+document that transfers house ownership to the buyer,20,paraphrase
+when can police arrest without a warrant,21,paraphrase
+how do heirs claim the money left by a dead relative,22,paraphrase
+lying under oath in court,23,paraphrase
+court paper telling me to appear on a date,24,paraphrase
+offence where the accused has a right to be released,25,paraphrase
+my cheque was returned by the bank unpaid,26,paraphrase
+how do I divide my property among family after I die,27,paraphrase
+what can I do if police detain me,28,paraphrase
+officer abused his power against me where do I complain,29,paraphrase
+paperwork proving my talaq was completed,30,paraphrase
+FIR,1,keyword
+bail,2,keyword
+trademark,11,keyword
+affidavit,10,keyword
+stay order,13,keyword
+limitation,12,keyword
+nikahnama,17,keyword
+injunction,19,keyword
+sale deed,20,keyword
+will,27,keyword
+what is the weather in Lahore today,-1,oos
+best biryani restaurant in Rawalpindi,-1,oos
+how to train a neural network,-1,oos
+who won the cricket match yesterday,-1,oos
+how do I bake a chocolate cake,-1,oos
+cheapest flights to Dubai,-1,oos
+how to learn python programming,-1,oos
+what is the price of gold today,-1,oos
